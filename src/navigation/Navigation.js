@@ -34,7 +34,7 @@ const SellStack= () => (
         ),
       }}
     >
-      <Stack.Screen name="Sell" component={SellScreen} />
+      <Stack.Screen name="SellStack" component={SellScreen} />
     </Stack.Navigator>
   );
 
